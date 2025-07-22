@@ -1,1 +1,2 @@
 # DataMiningProject
+#Bu projede, bir plazaya giriş yapan kişilerin verileri analiz edilerek, ziyaretçilerin misafir mi yoksa kurye mi olduğunu tahmin eden bir model geliştirilmiştir. #Ayrıca, günün hangi saatlerinde misafir sayısının ya da sipariş girişlerinin arttığı incelenerek zaman bazlı analizler yapılmıştır. Bu analizler sayesinde güvenlik, #resepsiyon ve hizmet yönetimi süreçlerinin daha verimli hale getirilmesi hedeflenmiştir.
